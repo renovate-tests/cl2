@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "eslint-config-duo": "0.0.1",
     "react": "16.2.0"
  },
  "renovate": {}
